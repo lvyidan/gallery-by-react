@@ -2,7 +2,7 @@
 one photo gallery project based on react.
 #图片画廊
 
-###在线演示: https://pinmingkenan.github.io/gallery-by-react/
+###在线演示: https://lvyidan.github.io/gallery-by-react/
 
 ##安装运行
 
