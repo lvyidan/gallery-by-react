@@ -1,3 +1,5 @@
+![Alt text](https://github.com/lvyidan/gallery-by-react/raw/master/photo/1.png)
+![Alt text](https://github.com/lvyidan/gallery-by-react/raw/master/photo/2.png)
 # gallery-by-react
 one photo gallery project based on react.
 #图片画廊
