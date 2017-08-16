@@ -1,5 +1,5 @@
 #图片画廊
-
+![image](https://github.com/lvyidan/gallery-by-react/raw/master/photo/1.jpg)
 ###在线演示: https://pinmingkenan.github.io/gallery-by-react/
 
 ##安装运行
